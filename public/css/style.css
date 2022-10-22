@@ -1,0 +1,18 @@
+//*Nav Style *//
+nav {
+    display: flex;
+    border-bottom: solid 1px gray;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav img {
+    width: 100px;
+}
+
+nav ul li{
+    padding:0px 10px;
+}
